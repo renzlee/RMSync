@@ -1,6 +1,5 @@
 # RM Private Pool — Project Process Map & Activity Diagrams
 
-> Generated: 2026-06-16  
 > Project: RM Private Pool (Lubao, Pampanga)  
 > Stack: Bootstrap 5 HTML · PHP SOAP API (Frontend) · PHP REST API/Leaf (Admin)
 
